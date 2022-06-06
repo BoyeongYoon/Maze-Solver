@@ -1,4 +1,3 @@
-[CSCI 235] Project 4
 ##### This was the school project, using given algorithm - stack to implement the maze solver.cpp file.
 # MAZE SOLVER
 <p align="center">
