@@ -1,5 +1,5 @@
-**This was the school project, using given algorithm - stack to implement the maze solver.cpp file**  
-<br>
+[CSCI 235] Project 4
+##### This was the school project, using given algorithm - stack to implement the maze solver.cpp file.
 # MAZE SOLVER
 <p align="center">
   <img src="https://media.giphy.com/media/cyMqOH8rjgDHG/giphy.gif">
